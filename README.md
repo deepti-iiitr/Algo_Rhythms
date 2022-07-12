@@ -1,6 +1,6 @@
-# Array Visualization
+# Algo_Rhythms
 
-A simple flutter experiment explaining how to render an array as colorful bars as the array is sorted using various sorting algorithms. The project currently supports following sorting algorithms - 
+A flutter application that visualizes various sorting algorithms. The project currently supports following sorting algorithms - 
 
 - Bubble Sort
 - Selection Sort
@@ -8,6 +8,7 @@ A simple flutter experiment explaining how to render an array as colorful bars a
 - Quick Sort
 - Merge Sort
 - Heap Sort
+
 
 
 ## Demo
