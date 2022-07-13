@@ -10,6 +10,10 @@ A flutter application that visualizes various sorting algorithms. The project cu
 - Heap Sort
 
 
+## What I Built
+
+![image](https://user-images.githubusercontent.com/64003317/178664528-5bd92bad-10b5-4a6d-93a2-9f892b799835.png)
+
 
 ## Demo
 
